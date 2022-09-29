@@ -1,2 +1,2 @@
-# learn
-A simple learning course
+# Manmino Documentation
+The official Manmino Documentation.
